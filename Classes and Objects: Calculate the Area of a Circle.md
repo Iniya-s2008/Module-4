@@ -1,4 +1,3 @@
-<img width="663" height="201" alt="image" src="https://github.com/user-attachments/assets/717f2c8a-5340-4ed0-8ff0-725a96a91b27" /># Classes and Objects in Python: Calculate the Area of a Circle
 
 ## 🎯 Aim
 To write a Python program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `cse` and a method `mech` to perform the calculation.
